@@ -9,6 +9,7 @@
                 "-g",
                 "${file}",
                 "${fileDirname}/components/texture_manager.cpp",
+                "${fileDirname}/components/animation_handler.cpp",
                 "${fileDirname}/components/game.cpp",
                 "${fileDirname}/components/game_state_start.cpp",
                 "${fileDirname}/components/game_state_editor.cpp",
